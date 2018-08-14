@@ -1,0 +1,144 @@
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:01:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 4888ms (Views: 4877.3ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:01:32 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:01:32 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.3ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:01:32 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:01:32 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:01:32 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:01 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 226ms (Views: 214.4ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.6ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.6ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.9ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.2ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:28 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 214ms (Views: 203.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:28 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:28 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:28 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:28 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:03:28 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:04:56 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 218ms (Views: 207.3ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:04:56 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.6ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:04:56 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:04:56 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:04:56 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.7ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:04:56 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.9ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:19 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 213ms (Views: 202.1ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:19 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.9ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:19 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.8ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:19 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:19 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.7ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:19 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 216ms (Views: 204.4ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 4ms (Views: 3.2ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.8ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 1.9ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-14 22:08:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.8ms)
